@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/top-langs/?username=wuaqing&layout=compact)
+![1](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/top-langs/?username=wuaqing&layout=compact)
